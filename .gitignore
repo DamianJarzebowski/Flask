@@ -1,8 +1,7 @@
 .vscode/
 *.pyc
 .idea/
-__pycache__/
-*.db
+models\__pycache__/
 .DS_Store
 venv/
 .venv/
